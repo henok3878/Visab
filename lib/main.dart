@@ -6,7 +6,7 @@ import 'package:tourist_guide/data/shared_preference.dart';
 import 'package:tourist_guide/ui/pages/guide_home.dart';
 import 'package:tourist_guide/ui/pages/login.dart';
 import 'package:tourist_guide/ui/pages/new_dash_board.dart';
-import 'package:tourist_guide/utils/beta.dart';
+import 'file:///C:/Programming/NewCourses/FlutterProjects/tourist_guide/lib/ui/splash_screen.dart';
 
 import 'controller/bindings/auth_binding.dart';
 
