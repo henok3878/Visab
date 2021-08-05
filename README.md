@@ -7,6 +7,7 @@ The app's functionalities include providing tour guides, suggest best tourist de
   - Google Maps Api 
   - Firebase Firestore 
   - Firebase Storage 
+  - Firebase Auth
   - Getx
   - ...
 
