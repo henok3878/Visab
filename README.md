@@ -1,7 +1,7 @@
 # Visab
 
 A travel application that aims to guide tourists and make their experience in Ethiopia the best and unforgettable.
-The app's functionalities include providing tour guides, suggest best tourist destinations in the country with thier detailed information.
+The app's functionalities include providing tour guides, suggest best tourist destinations in the country with thier detailed information and suggestions of near by attraction sites and hotels based on user's location in the country.
 
 ## Built with 
   - Google Maps Api 
