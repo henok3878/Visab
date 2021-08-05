@@ -1,7 +1,7 @@
 # tourist_guide
 
-A new Flutter application.
-
+A travel application that aims to guide tourists and make their experience in Ethiopia the best and unforgettable.
+The app's functionalities include providing tour guides, suggest best tourist destinations in the country with thier detailed information.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
